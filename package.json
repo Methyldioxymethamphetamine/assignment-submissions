@@ -1,0 +1,19 @@
+{
+  "name": "assg_website",
+  "version": "1.0.0",
+  "description": "Assighnts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Methyldioxymethamphetamine/assignment-submissions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Methyldioxymethamphetamine/assignment-submissions/issues"
+  },
+  "homepage": "https://github.com/Methyldioxymethamphetamine/assignment-submissions#readme"
+}
